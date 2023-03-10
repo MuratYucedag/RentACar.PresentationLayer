@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RentACar.BusinessLayer
+namespace RentACar.DataAccessLayer.TestExample
 {
-    public class Class1
+    public class Deneme:Musteri
     {
     }
 }
